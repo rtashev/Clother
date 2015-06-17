@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clother</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="textView_enterEmail">Enter Email</string>
+    <string name="textView_EnterPassword">Enter Password</string>
+    <string name="textView_ConfirmPassword">Confirm Password</string>
+    <string name="btn_Confirm">Confirm</string>
+    <string name="btn_LogIn">Log In</string>
+    <string name="btn_Register">Register</string>
+    <string name="title_activity_main">Main</string>
+    <string name="textView_UserEmailMainString">User Email :</string>
+    <string name="btn_WardrobeMain">My Wardrobe</string>
+    <string name="btn_RateOutfit">Rate Outfit</string>
+    <string name="btn_UploadOutfit">Upload Outfit</string>
+    <string name="btn_TakeOutfitPic">Take Outfit Picture</string>
+    <string name="btn_LogoutMain">Log Out</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="btn_AddTag_CameraActivity">Add Tag</string>
+    <string name="btn_TakeOutfit_CameraActivity">Take Outfit</string>
+    <string name="btn_UploadOutfit_CameraActivity">Upload Outfit</string>
+    <string name="app_name_caps">CLOTHER</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="btn_AddTag_galleryActivity">Add Tag</string>
+    <string name="btn_OpenGallery_galleryActivity">Open Gallery</string>
+    <string name="btn_UploadOutfit_galleryActivity">Upload Outfit</string>
+</resources>

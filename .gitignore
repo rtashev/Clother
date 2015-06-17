@@ -24,8 +24,9 @@ local.properties
 proguard/
 
 # Log Files
-<<<<<<< HEAD
-*.log# Android Studio files
+*.log
+
+# Android Studio files
 *.iml
 .idea
 
